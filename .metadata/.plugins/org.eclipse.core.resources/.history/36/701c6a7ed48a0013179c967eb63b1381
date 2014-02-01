@@ -1,0 +1,10 @@
+xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeniusPI</string>
+    <string name="action_settings">Settings</string>
+    <string name="vermelho" >Red</string>
+    <string name="azul">Blue azul</string>
+    <string name="verde">Green</string>
+
+</resources>
